@@ -1,0 +1,64 @@
+{"serverObject": {
+    "cast":    [
+                {
+                "order": 5,
+                "role": "Guest Star",
+                "firstname": "Vic",
+                "lastname": "Tayback"
+                },
+                {
+                "order": 1,
+                "role": "ACTOR",
+                "firstname": "Peter",
+                "lastname": "Falk"
+                },
+                {
+                "order": 3,
+                "role": "Guest Star",
+                "firstname": "Don",
+                "lastname": "Ameche"
+                },
+                {
+                "order": 2,
+                "role": "Guest Star",
+                "firstname": "Ross",
+                "lastname": "Martin"
+                },
+                {
+                "order": 4,
+                "role": "Guest Star",
+                "firstname": "Kim",
+                "lastname": "Hunter"
+                }
+                ],
+    "crew": [   {
+             "order": 1,
+             "role": "DIRECTOR",
+             "firstname": "Paul",
+             "lastname": "Schrader"
+             }],
+    "runtime": "PT01H35M",
+    "programmeType": "Network Series",
+    "countries": ["USA","italy"],
+    "genres":    [
+                  "Mystery",
+                  "Crime Drama"
+                  ],
+    "images": [      {sfhbrthokjwromhbeamdpofhb,nfscx320-4iy458683204yt         1 =wth},
+    "colourCode": "Color",
+    "movieInfo": {},
+    "origAudioLang": "en",
+    "episodeInfo":    {
+        "title":       {
+            "size": 150,
+            "type": "full",
+            "lang": "en",
+            "value": "Suitable for Framing"
+        },
+        "season": "01",
+        "number": "0004",
+        "episodes": "E01200"
+    },
+    "origAirDate": "1971-11-17"
+}
+}

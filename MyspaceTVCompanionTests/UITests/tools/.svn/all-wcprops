@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/47569/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/tools
+END
+run-test
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/47466/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/tools/run-test
+END
+transporter_chief
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/47462/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/tools/transporter_chief
+END
+uia2junit
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/47569/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/tools/uia2junit
+END

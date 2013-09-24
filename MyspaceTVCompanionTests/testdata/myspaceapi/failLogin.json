@@ -1,0 +1,29 @@
+{
+  "serverObject":    {
+     "link": null,
+     "xmppJid": null,
+     "xmppPassword": null,
+     "name": null,
+     "sessionId": null,
+     "accountId": null,
+     "profileImageUrls": [],
+     "failedAuthResponse":       {
+        "authenticated": false,
+        "statusCode": 401,
+        "isLockedOut": null,
+        "snId": null,
+        "fullName": null,
+        "defaultProfileId": null,
+        "defaultProfileEntityKey": null,
+        "authenticationToken": null,
+        "profileImageUrls": [],
+        "properties": {},
+        "infoMessage": "{\"isAuthenticated\":false,\"isLockedOut\":false}"
+     },
+     "authenticationToken": null,
+     "devProfileId": null,
+     "pin": null,
+     "objectIDString": null
+  },
+  "dapPayload": []
+}

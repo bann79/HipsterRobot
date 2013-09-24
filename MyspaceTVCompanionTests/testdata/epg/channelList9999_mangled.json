@@ -1,0 +1,349 @@
+{
+    "channel": {
+        "description": "Channel list for Wales",
+        "category": [],
+        "link": "http://www.thischannellist.co.uk",
+        "items": [
+                  
+                  sgeknhoeahgjoisdrhboiernbgo' MANGLED'\223579\\\'''@£%$^&&*&^%
+                  {
+                  "description": "ANPL description",
+                  "identifier": "103",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://anpl.com/stream1"
+                              },
+                              {
+                              "url": "http://anpl.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "ANPL category"
+                               }
+                               ],
+                  "guid": {
+                  "value": "ANPL:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "ANPL",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "BBC flagship channel",
+                  "identifier": "101",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://vod.ovp.com/bbc1wales/stream1"
+                              },
+                              {
+                              "url": "http://vod.ovp.com/bbc1wales/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "News"
+                               },
+                               {
+                               "name": "Entertainment"
+                               }
+                               ],
+                  "guid": {
+                  "value": "BBC1:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "BBC 1 Wales",
+                  "thumbnail": {
+                  "time": "0.0",
+                  "url": "http://bbc.co.uk/logo1",
+                  "width": 0,
+                  "height": 0
+                  }
+                  },
+                  {
+                  "description": "DSC description",
+                  "identifier": "102",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://vod.ovp.com/bbc2wales/stream1"
+                              },
+                              {
+                              "url": "http://vod.ovp.com/bbc2wales/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "DSC Category"
+                               }
+                               ],
+                  "guid": {
+                  "value": "DSC:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "DSC",
+                  "thumbnail": {
+                  "time": "0.0",
+                  "url": "http://bbc.co.uk/logo2",
+                  "width": 0,
+                  "height": 0
+                  }
+                  },
+                  {
+                  "description": "Celebrity news and gossip",
+                  "identifier": "311",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://etv.com/stream1"
+                              },
+                              {
+                              "url": "http://etv.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "Entertainment"
+                               },
+                               {
+                               "name": "Celebrities"
+                               }
+                               ],
+                  "guid": {
+                  "value": "E!TV:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "E! TV",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "Live sports",
+                  "identifier": "150",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://espn.com/stream1"
+                              },
+                              {
+                              "url": "http://espn.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "Sport"
+                               }
+                               ],
+                  "guid": {
+                  "value": "ESPNCL:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "ESPN",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "Independent UK television",
+                  "identifier": "400",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://itv.com/stream1"
+                              },
+                              {
+                              "url": "http://itv.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "News"
+                               },
+                               {
+                               "name": "Entertainment"
+                               },
+                               {
+                               "name": "Sport"
+                               }
+                               ],
+                  "guid": {
+                  "value": "ITV:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "ITV",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "Metro Goldwyn Mayer",
+                  "identifier": "120",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://mgm.com/stream1"
+                              },
+                              {
+                              "url": "http://mgm.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "Films"
+                               }
+                               ],
+                  "guid": {
+                  "value": "MGM:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "MGM",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "TV d'Italia",
+                  "identifier": "201",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://rai.com/stream1"
+                              },
+                              {
+                              "url": "http://rai.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "News"
+                               },
+                               {
+                               "name": "Entertainment"
+                               }
+                               ],
+                  "guid": {
+                  "value": "RAI:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "RAI TV",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "TV for Germany",
+                  "identifier": "210",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://rtl.com/stream1"
+                              },
+                              {
+                              "url": "http://rtl.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "News"
+                               },
+                               {
+                               "name": "Entertainment"
+                               }
+                               ],
+                  "guid": {
+                  "value": "RTL:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "RTL TV",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "Science fiction programming",
+                  "identifier": "121",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://syfy.co.uk/stream1"
+                              },
+                              {
+                              "url": "http://syfy.co.uk/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "Science Fiction"
+                               }
+                               ],
+                  "guid": {
+                  "value": "SCIFI:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "Syfy",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "TV pour l'Hexagone",
+                  "identifier": "301",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://tv5.com/stream1"
+                              },
+                              {
+                              "url": "http://tv5.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "French"
+                               }
+                               ],
+                  "guid": {
+                  "value": "TV5:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "TV-5",
+                  "thumbnail": null
+                  },
+                  {
+                  "description": "TV broadcast across Europe",
+                  "identifier": "155",
+                  "group": {
+                  "content": [
+                              {
+                              "url": "http://tv-europe.com/stream1"
+                              },
+                              {
+                              "url": "http://tv-europe.com/stream2"
+                              }
+                              ]
+                  },
+                  "category": [
+                               {
+                               "name": "News"
+                               },
+                               {
+                               "name": "Entertainment"
+                               }
+                               ],
+                  "guid": {
+                  "value": "TVE:tribune:uk",
+                  "isPermaLink": false
+                  },
+                  "title": "TV-Europe",
+                  "thumbnail": null
+                  }
+                  ],
+        "title": "Wales channel list",
+        "atomLink": {
+            "type": "application/rss+xml",
+            "href": "http://localhost:8080/ChannelAssetManagerService/channelassetmanagerclient/channellist/9999",
+            "rel": "self"
+        }
+    },
+    "version": "2.0"
+}

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services
+END
+OnNowDataIterator.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/OnNowDataIterator.m
+END
+OnNowTableViewService.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/OnNowTableViewService.m
+END
+Credential.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/48170/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/Credential.h
+END
+Credential.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/48170/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/Credential.m
+END
+PlanAheadDataIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/46734/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/PlanAheadDataIterator.h
+END
+AuthState.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/49016/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/AuthState.h
+END
+DataIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/46977/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/DataIterator.h
+END
+AuthStateResponder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/48691/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/AuthStateResponder.h
+END
+OnNowDataIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/46575/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/OnNowDataIterator.h
+END
+OnNowTableViewService.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/49930/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/OnNowTableViewService.h
+END
+PlanAheadDataIterator.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/PlanAheadDataIterator.m
+END
+AuthState.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/48992/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/AuthState.m
+END
+DataIterator.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/49930/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanion/Services/DataIterator.m
+END
