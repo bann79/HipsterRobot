@@ -21,6 +21,10 @@
 		B38FE26A19FE80BB003D50C6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B38FE24C19FE80BB003D50C6 /* UIKit.framework */; };
 		B38FE27219FE80BB003D50C6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B38FE27019FE80BB003D50C6 /* InfoPlist.strings */; };
 		B38FE27419FE80BB003D50C6 /* beeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B38FE27319FE80BB003D50C6 /* beeTests.m */; };
+		B38FE27F19FE9643003D50C6 /* Bee.m in Sources */ = {isa = PBXBuildFile; fileRef = B38FE27E19FE9643003D50C6 /* Bee.m */; };
+		B3A9BECA19FFA14200226230 /* Worker.m in Sources */ = {isa = PBXBuildFile; fileRef = B3A9BEC919FFA14200226230 /* Worker.m */; };
+		B3A9BECD19FFA3EF00226230 /* Drone.m in Sources */ = {isa = PBXBuildFile; fileRef = B3A9BECC19FFA3EF00226230 /* Drone.m */; };
+		B3A9BED019FFA7FC00226230 /* Queen.m in Sources */ = {isa = PBXBuildFile; fileRef = B3A9BECF19FFA7FC00226230 /* Queen.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,14 @@
 		B38FE26F19FE80BB003D50C6 /* beeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "beeTests-Info.plist"; sourceTree = "<group>"; };
 		B38FE27119FE80BB003D50C6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B38FE27319FE80BB003D50C6 /* beeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = beeTests.m; sourceTree = "<group>"; };
+		B38FE27D19FE9643003D50C6 /* Bee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bee.h; sourceTree = "<group>"; };
+		B38FE27E19FE9643003D50C6 /* Bee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bee.m; sourceTree = "<group>"; };
+		B3A9BEC819FFA14200226230 /* Worker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Worker.h; sourceTree = "<group>"; };
+		B3A9BEC919FFA14200226230 /* Worker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Worker.m; sourceTree = "<group>"; };
+		B3A9BECB19FFA3EF00226230 /* Drone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Drone.h; sourceTree = "<group>"; };
+		B3A9BECC19FFA3EF00226230 /* Drone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Drone.m; sourceTree = "<group>"; };
+		B3A9BECE19FFA7FC00226230 /* Queen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Queen.h; sourceTree = "<group>"; };
+		B3A9BECF19FFA7FC00226230 /* Queen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Queen.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +131,14 @@
 				B38FE25E19FE80BB003D50C6 /* ViewController.m */,
 				B38FE26019FE80BB003D50C6 /* Images.xcassets */,
 				B38FE24F19FE80BB003D50C6 /* Supporting Files */,
+				B38FE27D19FE9643003D50C6 /* Bee.h */,
+				B38FE27E19FE9643003D50C6 /* Bee.m */,
+				B3A9BEC819FFA14200226230 /* Worker.h */,
+				B3A9BEC919FFA14200226230 /* Worker.m */,
+				B3A9BECB19FFA3EF00226230 /* Drone.h */,
+				B3A9BECC19FFA3EF00226230 /* Drone.m */,
+				B3A9BECE19FFA7FC00226230 /* Queen.h */,
+				B3A9BECF19FFA7FC00226230 /* Queen.m */,
 			);
 			path = bee;
 			sourceTree = "<group>";
@@ -249,9 +269,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3A9BECD19FFA3EF00226230 /* Drone.m in Sources */,
+				B38FE27F19FE9643003D50C6 /* Bee.m in Sources */,
+				B3A9BED019FFA7FC00226230 /* Queen.m in Sources */,
 				B38FE25F19FE80BB003D50C6 /* ViewController.m in Sources */,
 				B38FE25919FE80BB003D50C6 /* AppDelegate.m in Sources */,
 				B38FE25519FE80BB003D50C6 /* main.m in Sources */,
+				B3A9BECA19FFA14200226230 /* Worker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +480,7 @@
 				B38FE27919FE80BB003D50C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B38FE27A19FE80BB003D50C6 /* Build configuration list for PBXNativeTarget "beeTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +489,7 @@
 				B38FE27C19FE80BB003D50C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
