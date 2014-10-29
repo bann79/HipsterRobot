@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/49954/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/testdata/myspaceapi
+END
+authUser.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/49954/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/testdata/myspaceapi/authUser.json
+END
+failLogin.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/48041/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/testdata/myspaceapi/failLogin.json
+END

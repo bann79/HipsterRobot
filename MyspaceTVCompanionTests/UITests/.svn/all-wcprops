@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/49576/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests
+END
+deployAndRunTests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/48936/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/deployAndRunTests.sh
+END
+profileSelectionTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/49573/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/profileSelectionTest.js
+END
+loginTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/49573/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/loginTest.js
+END
+exampleTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/49573/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/exampleTest.js
+END
+imageComparison.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/48936/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/imageComparison.sh
+END
+planAheadTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/49573/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/planAheadTest.js
+END
+playerControlTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/49576/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UITests/playerControlTest.js
+END

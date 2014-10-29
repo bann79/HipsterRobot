@@ -1,0 +1,97 @@
+{
+    "serverObject": {
+        "channelId": "BBC 1:ebsftp",
+        "programmes": [
+            {
+                "name": "Regional News and Weather",
+                "objectIDString": "a8319b1b-d744-4063-a054-fbf0c0047b54",
+                "synopsis": "The latest local news, sport and weather from newsrooms around the country.",
+                "start": "Wed, 16 May 2012 17:30:00 +0000",
+                "end": "Wed, 16 May 2012 18:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/a8319b1b-d744-4063-a054-fbf0c0047b54/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Newsround",
+                "objectIDString": "9eddde96-732c-459d-b869-a17ed406aa1c",
+                "synopsis": "Topical news magazine for children.",
+                "start": "Wed, 16 May 2012 16:00:00 +0000",
+                "end": "Wed, 16 May 2012 16:15:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/9eddde96-732c-459d-b869-a17ed406aa1c/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Copycats",
+                "objectIDString": "e55e61e6-cc47-4fb4-85c1-084b0c70a38b",
+                "synopsis": "Two families battle it out in a range of hilarious games. The teams of copycats take it in turns to copy pictures, actions and displays of musical genius. In order to get as many points as possible each team also attempts to complete one of six formidable Copycats Challenges. The team with the highest score at the end of the show faces the final challenge, the manic Ball Room - a giant cube filled with balls that are blasted into the air. The winners take home the ultimate money-can't-buy prize - the super, shiny, springy, gold Copycats trophy, as well as securing their place in game show history.",
+                "start": "Wed, 16 May 2012 15:00:00 +0000",
+                "end": "Wed, 16 May 2012 15:30:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/e55e61e6-cc47-4fb4-85c1-084b0c70a38b/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "BBC News at Six",
+                "objectIDString": "d75d1e95-a5bf-4e35-8f58-f6289d9b6f82",
+                "synopsis": "The latest national and international news stories from the BBC News team, followed by weather.",
+                "start": "Wed, 16 May 2012 17:00:00 +0000",
+                "end": "Wed, 16 May 2012 17:30:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/d75d1e95-a5bf-4e35-8f58-f6289d9b6f82/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Horrible Histories: Gory Games",
+                "objectIDString": "ede65e11-5bab-4681-9978-87be8a872b5c",
+                "synopsis": "The messiest, silliest and goriest game show ever, hosted by Dave Lamb and his glamourless assistant Rattus Rattus, with quirky quizzes and gory games. What has eight arms and eight legs? Was Isambard Kingdom Brunel more than just a Victorian engineer?",
+                "start": "Wed, 16 May 2012 15:30:00 +0000",
+                "end": "Wed, 16 May 2012 16:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/ede65e11-5bab-4681-9978-87be8a872b5c/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Pointless",
+                "objectIDString": "903615cf-8218-488c-a4e7-fa930d83d3eb",
+                "synopsis": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of. Presented by Alexander Armstrong and Richard Osman.",
+                "start": "Wed, 16 May 2012 16:15:00 +0000",
+                "end": "Wed, 16 May 2012 17:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/903615cf-8218-488c-a4e7-fa930d83d3eb/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            }
+        ]
+    }
+}

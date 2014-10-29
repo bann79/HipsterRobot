@@ -1,0 +1,112 @@
+{
+    "serverObject": {
+        "channelId": "BBC 1:ebsftp",
+        "programmes": [
+            {
+                "name": "Escape to the Country",
+                "objectIDString": "ab748f74-8c54-4243-a199-1ea88d16eb12",
+                "synopsis": "Series in which prospective buyers are helped to find their dream home in the country. Jules Hudson travels to North Devon to help a military couple who are looking to put down roots in the countryside for a budget of 500,000 pounds. Plus, Jules catches up with a pair of escapees who found their dream home in a previous series.",
+                "start": "Wed, 16 May 2012 13:15:00 +0000",
+                "end": "Wed, 16 May 2012 14:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/ab748f74-8c54-4243-a199-1ea88d16eb12/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Doctors",
+                "objectIDString": "3cc4d787-66de-4763-965c-d4210342ae05",
+                "synopsis": "After an encounter with some medical students, Daniel realises that he needs to practice what he preaches when it comes to bedside manners. Mrs Tembe gets a little too involved at the self-defence class, and Martin hopes his wooing of Julia can help change her mind.",
+                "start": "Wed, 16 May 2012 12:45:00 +0000",
+                "end": "Wed, 16 May 2012 13:15:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/3cc4d787-66de-4763-965c-d4210342ae05/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "BBC News",
+                "objectIDString": "d905d08e-40cf-45dd-bd46-f2fffe70f6a2",
+                "synopsis": "BBC One joins the BBC's rolling news channel for a night of news, with bulletins on the hour and the headlines every 15 minutes.",
+                "start": "Wed, 16 May 2012 14:00:00 +0000",
+                "end": "Wed, 16 May 2012 14:05:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/d905d08e-40cf-45dd-bd46-f2fffe70f6a2/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "BBC News at One",
+                "objectIDString": "68fbd7bb-8040-4185-ae03-9aaa29ee9591",
+                "synopsis": "The latest national and international news stories from the BBC News team, followed by weather.",
+                "start": "Wed, 16 May 2012 12:00:00 +0000",
+                "end": "Wed, 16 May 2012 12:30:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/68fbd7bb-8040-4185-ae03-9aaa29ee9591/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Regional News and Weather",
+                "objectIDString": "4a37ec99-5be3-431a-84c4-0b4c63ca2414",
+                "synopsis": "The latest local news, sport and weather from newsrooms around the country.",
+                "start": "Wed, 16 May 2012 12:30:00 +0000",
+                "end": "Wed, 16 May 2012 12:45:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/4a37ec99-5be3-431a-84c4-0b4c63ca2414/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Dick 'N' Dom Go Wild",
+                "objectIDString": "28c409be-7bc1-4595-83dc-2cb291226ac5",
+                "synopsis": "Katie and Katherine get to work at the largest nesting swan colony in the UK. Chloe and Kieran care for Mona, the dog with no owner, at a dogs' home in Glasgow. Also, Dick and Dom beaver away with giant rodents that were nearly hunted to extinction over four hundred years ago.",
+                "start": "Wed, 16 May 2012 14:05:00 +0000",
+                "end": "Wed, 16 May 2012 14:35:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/28c409be-7bc1-4595-83dc-2cb291226ac5/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Lockie Leonard",
+                "objectIDString": "dcc84946-30c5-46b0-9a9a-8497bf71147e",
+                "synopsis": "Live-action comedy series following the adventures of 13-year-old Australian surf rat Lockie. As if the failed kiss attempt was not embarrassing enough, Mel stays for the weekend, literally seeing Lockie's family in their underwear. Mum receives life-changing news, while a late-night arrival intrigues Phillip.",
+                "start": "Wed, 16 May 2012 14:35:00 +0000",
+                "end": "Wed, 16 May 2012 15:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/dcc84946-30c5-46b0-9a9a-8497bf71147e/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            }
+        ]
+    }
+}

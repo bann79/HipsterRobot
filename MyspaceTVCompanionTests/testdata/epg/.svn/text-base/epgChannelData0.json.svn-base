@@ -1,0 +1,82 @@
+{
+    "serverObject": {
+        "channelId": "BBC 1:ebsftp",
+        "programmes": [
+            {
+                "name": "Horizon",
+                "objectIDString": "647a5d94-f275-4103-bb68-3fa339afe3d0",
+                "synopsis": "Topical science series. Horizon looks at the strange patterns of weather seen in recent years. Since 2010, the UK has shivered through two record-breaking cold winters and experienced intense droughts and torrential floods. It is a pattern that seems to be playing out across the globe, with Texas seeing record-breaking rainfall followed by record-breaking drought. Horizon follows the scientists who are trying to understand what has been happening to our weather and investigates if these extremes are a taste of what is to come.",
+                "start": "Wed, 16 May 2012 01:15:00 +0000",
+                "end": "Wed, 16 May 2012 02:15:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/647a5d94-f275-4103-bb68-3fa339afe3d0/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "The Apprentice",
+                "objectIDString": "e9e30a9f-f941-4d60-9da7-6721d0726a37",
+                "synopsis": "The eighth task in this series of the business-based competition starts with an early morning trip to Waterloo Station, but the teams are not going anywhere; underneath the railway arches is a big screen with a message from Lord Sugar. He tells the teams to take a look around; they are surrounded by graffiti, and this is what they will be selling next. The teams each have one day to meet and convince up-and-coming urban artists that they are the right team to represent them in a one-off gallery sale. As the candidates meet an edgy bunch of artists, two different schmoozing techniques emerge. When both teams clash over the same artist, a project manager goes into meltdown and ends up taking a big risk. When the galleries open, modestly-priced graffiti and monster pictures with even bigger price tags prove hard to shift. But some art does appeal and, when prints and paintings begin to fly off the walls, some surprising top sellers emerge.",
+                "start": "Tue, 15 May 2012 23:15:00 +0000",
+                "end": "Wed, 16 May 2012 00:15:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/e9e30a9f-f941-4d60-9da7-6721d0726a37/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Super Smart Animals",
+                "objectIDString": "256343c7-7c7a-43d2-8e42-e23625d05c59",
+                "synopsis": "From skateboarding dogs to chimp maths geniuses, Liz Bonnin embarks on a worldwide search for the planet's most intelligent animals. Liz gets creative with dolphins, shares a eureka moment with orangutans and defends the reputation of the human race when she goes head to head with a chimp genius in a test of maths and memory. There is an octopus escapologist, John Humphrys puts a goldfish through its paces on Mastermind, and Tillman the skateboarding dog wows crowds in Los Angeles.",
+                "start": "Wed, 16 May 2012 00:15:00 +0000",
+                "end": "Wed, 16 May 2012 01:15:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/256343c7-7c7a-43d2-8e42-e23625d05c59/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Antiques Road Trip",
+                "objectIDString": "9684d9bd-94ae-47f9-a8c1-a32d7bcedc0e",
+                "synopsis": "Antiques experts travel across the UK as they compete to make the most money at auction. It's the last day for Anita Manning to snatch the lead from James Lewis as they start their trip in Woburn in Bedfordshire and end up at a gripping auction in Cirencester, Gloucestershire.",
+                "start": "Wed, 16 May 2012 02:45:00 +0000",
+                "end": "Wed, 16 May 2012 03:30:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/9684d9bd-94ae-47f9-a8c1-a32d7bcedc0e/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Great British Railway Journeys",
+                "objectIDString": "5b7d939d-ce0a-4094-9ba5-59bd47ed4585",
+                "synopsis": "Michael Portillo takes to the tracks with a copy of George Bradshaw's Victorian Railway Guidebook. Portillo travels the length and breadth of the country to see how the railways changed us, and what of Bradshaw's Britain remains. Following in the footsteps of Queen Victoria, Michael uses the railways she often rode from Windsor Castle to her country getaway on the Isle of Wight, from which his journey continues west, to Portland. Michael visits a station fit for royalty in Windsor, views an engineering triumph built by Brunel to span the Thames at Maidenhead, and tries his hand at collecting the mail 'Victorian style' on a steam-powered travelling post office.",
+                "start": "Wed, 16 May 2012 02:15:00 +0000",
+                "end": "Wed, 16 May 2012 02:45:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/5b7d939d-ce0a-4094-9ba5-59bd47ed4585/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            }
+        ]
+    }
+}

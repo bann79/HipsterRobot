@@ -1,0 +1,29 @@
+{
+   "item":{
+            "description":"BBC Flagship Channel",
+            "identifier":"201",
+            "group":{
+               "content":[
+                  {
+                     "url":"http://betatv-cdn.xumo.com/live/BBC1/BBC1_multi.m3u8"
+                  }
+               ]
+            },
+            "categories":[
+               {
+                  "name":"Entertainment"
+               }
+            ],
+            "guid":{
+               "value":"BBC 1:ebsftp",
+               "isPermaLink":false
+            },
+            "title":"BBC1",
+            "thumbnail":{
+               "time":"0.0",
+               "url":"http://img1.ovp-cdn.xumo.com/middleware/bbc1.png",
+               "width":83.0,
+               "height":44.0
+            }
+         }
+}

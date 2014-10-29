@@ -1,0 +1,67 @@
+{
+    "serverObject": {
+        "channelId": "BBC 1:ebsftp",
+        "programmes": [
+            {
+                "name": "The Apprentice",
+                "objectIDString": "fa4f2719-d36b-4f88-89a9-cf23fd50d03c",
+                "synopsis": "The eighth task in this series of the business-based competition starts with an early morning trip to Waterloo Station, but the teams are not going anywhere; underneath the railway arches is a big screen with a message from Lord Sugar. He tells the teams to take a look around; they are surrounded by graffiti, and this is what they will be selling next. The teams each have one day to meet and convince up-and-coming urban artists that they are the right team to represent them in a one-off gallery sale. As the candidates meet an edgy bunch of artists, two different schmoozing techniques emerge. When both teams clash over the same artist, a project manager goes into meltdown and ends up taking a big risk. When the galleries open, modestly-priced graffiti and monster pictures with even bigger price tags prove hard to shift. But some art does appeal and, when prints and paintings begin to fly off the walls, some surprising top sellers emerge.",
+                "start": "Wed, 16 May 2012 20:00:00 +0000",
+                "end": "Wed, 16 May 2012 21:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/fa4f2719-d36b-4f88-89a9-cf23fd50d03c/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "The One Show",
+                "objectIDString": "c1998ab6-098b-46ea-9872-8811f321a996",
+                "synopsis": "If it has Britain talking then it will be talked about on The One Show. Matt Baker and Alex Jones present the stories that matter from across the country.",
+                "start": "Wed, 16 May 2012 18:00:00 +0000",
+                "end": "Wed, 16 May 2012 18:30:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/c1998ab6-098b-46ea-9872-8811f321a996/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "DIY SOS The Big Build",
+                "objectIDString": "85d43c8b-0ceb-4d95-a902-a990f7fde513",
+                "synopsis": "Home renovation series. Nick Knowles and the team head to Enfield where they meet Eric Rivers, a keen sportsman who is gradually being deprived of the use of his body by motor neurone disease. Eric is a passionate communicator and a keen advocate for the value of life. Eric, his wife Davina and their three daughters need their terraced house adapted for Eric's needs. They also need additional room. With friends, neighbours and trades all rallying round to help, this is the story of a community pulling together. They have just nine days to finish the job.",
+                "start": "Wed, 16 May 2012 19:00:00 +0000",
+                "end": "Wed, 16 May 2012 20:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/85d43c8b-0ceb-4d95-a902-a990f7fde513/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            },
+            {
+                "name": "Planet Earth Live",
+                "objectIDString": "b3d5d0c7-0c13-426f-ab75-a17077fd2a12",
+                "synopsis": "Richard Hammond and Julia Bradbury have the latest news on the three-week global wildlife event. For the animals they are following, May is the most challenging month of their lives. In Kenya, Richard updates on the lion and elephant families, while over in Minnesota, North America, Julia is in deep with the black bears as the cubs continue to find their feet. Plus news of the meerkats in South Africa and the monkeys in Sri Lanka.",
+                "start": "Wed, 16 May 2012 18:30:00 +0000",
+                "end": "Wed, 16 May 2012 19:00:00 +0000",
+                "extraInfo": {
+                    "linkedClass": "uk.co.specificmedia.middlewareserver.model.epg.extraInfo.ProgrammeExtraInfo",
+                    "link": {
+                        "uri": "http://mws.xumo.com:8080/EpgManagerService/epgmanagerservice/programme/b3d5d0c7-0c13-426f-ab75-a17077fd2a12/extrainfo",
+                        "rel": "GET",
+                        "produces": "application/vnd.specificmedia.mws+json;type=epgextrainfo,application/vnd.specificmedia.mws+xml;type=epgextrainfo"
+                    }
+                }
+            }
+        ]
+    }
+}

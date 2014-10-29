@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/50011/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests
+END
+ProgramCarouselModelTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ProgramCarouselModelTest.m
+END
+EpgApiTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/EpgApiTests.m
+END
+ActionRingViewTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/49247/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ActionRingViewTest.m
+END
+ProgramCarouselTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ProgramCarouselTests.m
+END
+ProgressBarTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/50011/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ProgressBarTest.m
+END
+MyspaceTVCompanionTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/46335/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/MyspaceTVCompanionTests-Info.plist
+END
+PigTransportViewControllerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/49155/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/PigTransportViewControllerTest.m
+END
+ProgessBarScrubberTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/49442/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ProgessBarScrubberTest.m
+END
+AuthStateTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/49227/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/AuthStateTest.m
+END
+NSArray+MapTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/46885/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/NSArray+MapTests.m
+END
+EpgDatatransformerTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/EpgDatatransformerTests.m
+END
+UserProfilesManagerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/48083/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/UserProfilesManagerTest.m
+END
+ProgramCarouselItemViewTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ProgramCarouselItemViewTest.m
+END
+AppViewControllerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/48379/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/AppViewControllerTest.m
+END
+GridViewTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/47404/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/GridViewTest.m
+END
+PlanAheadDataIteratorTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/PlanAheadDataIteratorTest.m
+END
+AuthUserInfoTransformerTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/49952/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/AuthUserInfoTransformerTests.m
+END
+DataIteratorTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/49016/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/DataIteratorTest.m
+END
+OnNowTableViewServiceTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/OnNowTableViewServiceTest.m
+END
+NumericIndicatorViewTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/47901/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/NumericIndicatorViewTest.m
+END
+TestUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/47194/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/TestUtils.h
+END
+XumoVideoPlayerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/XumoVideoPlayerTest.m
+END
+AppDelegateTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/49016/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/AppDelegateTests.m
+END
+TestUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/47194/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/TestUtils.m
+END
+ViewFactoryTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/46501/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ViewFactoryTest.m
+END
+ImageUtilsTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/46688/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ImageUtilsTest.m
+END
+OnNowDataIteratorTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/49980/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/OnNowDataIteratorTest.m
+END
+VideoViewControllerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/49018/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/VideoViewControllerTest.m
+END
+LoginViewControllerTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/48711/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/LoginViewControllerTest.m
+END
+ArcListScrollViewTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/47389/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ArcListScrollViewTest.m
+END
+MyspaceApiTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/48846/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/MyspaceApiTests.m
+END
+ProgramTimeConverterTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/49953/MSCOMP/trunk/ios/MyspaceTVCompanion/MyspaceTVCompanionTests/ProgramTimeConverterTest.m
+END
